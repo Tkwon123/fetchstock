@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'stock_quote, '~>1.2.0'
+gem 'stock_quote', '~>1.2.0'
