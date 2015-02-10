@@ -4,7 +4,7 @@ fetchstock
 Simple tool to fetch stock quotes so you know where your monies at!
 
 ```
-git clone https://github.com/Tkwon123/whatweather.git
+git clone https://github.com/Tkwon123/fetchstock.git
 cd fetchstock
 bundle install
 ruby fetchstock.rb
@@ -13,7 +13,7 @@ ruby fetchstock.rb
 OR
 
 ```
-git clone https://github.com/Tkwon123/whatweather.git
+git clone https://github.com/Tkwon123/fetchstock.git
 cd fetchstock
 gem install stock_quote
 ruby fetchstock.rb
